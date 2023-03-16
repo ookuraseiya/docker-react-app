@@ -63,3 +63,7 @@ WSL＋VSCodeの「NoPermissions (FileSystemError): Error: EACCES: permission den
 **※再度忠告ですが、あくまで「ローカル環境だから」という方法です。上記方法を使う場合はセキュリティや管理に十分気をつけて下さい。**
 
 VSCodeで"Docker"拡張機能を使ってみる：https://qiita.com/829yasubee/items/d336c26f3a5393a264ac
+
+##Docker起動・停止方法
+**起動：docker-compose up -d**
+**停止：docker-compose down**
