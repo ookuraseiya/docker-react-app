@@ -1,5 +1,3 @@
-## やっとDockerでRaect/TypeScriptの環境構築が出来ました！！！
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -46,23 +44,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-
-## 参考になった神サイト（環境構築 docker/react/typescript/vscode）
-環境構築編：https://qiita.com/sakua_/items/bcb48455bbaaaeb77ac5
-
-dockerコマンドが使えなかった時：https://amateur-engineer.com/wsl-docker-daemon-start/
-
-Got permission denied while trying to connect to the Docker daemon socket at 解決方法：https://qiita.com/Nw3965/items/8e75da0012cb7a451cc2
-
-Windows上のVS CodeでRemote-WSLを使い。WSL2のUbuntu 20.04へアクセスする。：https://zenn.dev/s_ryuuki/articles/4b9631674adea4
-
-WSL＋VSCodeの「NoPermissions (FileSystemError): Error: EACCES: permission denied」の解決方法：https://my-web-note.com/wsl-vscode-develop/#wslvscode
-
-【Ubuntu】rootユーザーで「ログイン」する方法！：https://osakanav.com/ubuntu-root-user
-
-**※gnu nanoは使えるようにしよな！**
-
-**※再度忠告ですが、あくまで「ローカル環境だから」という方法です。上記方法を使う場合はセキュリティや管理に十分気をつけて下さい。**
-
-VSCodeで"Docker"拡張機能を使ってみる：https://qiita.com/829yasubee/items/d336c26f3a5393a264ac
