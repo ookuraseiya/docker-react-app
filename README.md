@@ -1,4 +1,4 @@
-# Dockerで環境構築
+# Dockerで環境構築してみました。これからReact/TypeScriptを使ってshopサイトを制作する。
 **Getting Started with Create React App**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
