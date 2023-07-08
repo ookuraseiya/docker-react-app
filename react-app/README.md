@@ -11,7 +11,7 @@ WSL＋VSCodeの「NoPermissions (FileSystemError): Error: EACCES: permission den
 
 【Ubuntu】rootユーザーで「ログイン」する方法！：https://osakanav.com/ubuntu-root-user
 
-**※gnu nanoは使えるようにしよな！**
+**※gnu nanoは使えるようにしよう**
 **※再度忠告ですが、あくまで「ローカル環境だから」という方法です。上記方法を使う場合はセキュリティや管理に十分気をつけて下さい。**
 
 VSCodeで"Docker"拡張機能を使ってみる：https://qiita.com/829yasubee/items/d336c26f3a5393a264ac
