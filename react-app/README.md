@@ -19,3 +19,5 @@ VSCodeで"Docker"拡張機能を使ってみる：https://qiita.com/829yasubee/i
 ##Docker起動・停止方法
 **起動：docker-compose up -d**
 **停止：docker-compose down**
+
+**フォルダ場所：\\wsl.localhost\Ubuntu-20.04\home\seiya\docker\react-app**
